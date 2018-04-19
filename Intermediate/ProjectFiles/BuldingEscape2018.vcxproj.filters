@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BuldingEscape2018.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{23045D12-CF74-40FC-B351-518306A427CE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BuldingEscape2018.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BuldingEscape2018Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{399E06B6-CD2C-4C0D-B763-5081BE83997A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BuldingEscape2018">
+			<UniqueIdentifier>{E5B07052-55D5-4CEA-AF38-02097FF632B4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BuldingEscape2018\BuldingEscape2018.Build.cs">
+			<Filter>Source\BuldingEscape2018</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BuldingEscape2018\BuldingEscape2018.cpp">
+			<Filter>Source\BuldingEscape2018</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BuldingEscape2018\BuldingEscape2018.h">
+			<Filter>Source\BuldingEscape2018</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BuldingEscape2018\BuldingEscape2018GameModeBase.cpp">
+			<Filter>Source\BuldingEscape2018</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BuldingEscape2018\BuldingEscape2018GameModeBase.h">
+			<Filter>Source\BuldingEscape2018</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
