@@ -265,4 +265,5 @@ __pycache__/
 */DerivedDataCache
 */Intermidiate
 */Saved
-*/
+/BuildingEscape2018/Content/StarterContent
+*.db
